@@ -93,7 +93,7 @@
   </div>
 </div>
 <footer class="container-fluid text-center">
-  <p>Footer Text</p>
+  <p>contact info:jaejunmi@usc.edu</p>
 </footer>
 </body>
 </html>
