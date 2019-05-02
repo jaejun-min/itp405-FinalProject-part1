@@ -63,6 +63,7 @@
         <!-- <li class="active"><a href="#">Home</a></li> -->
         <li><a href="/profile" class="nav-link">Profile</a></li>
         <li><a href="/board" class="nav-link">Forum</a></li>
+        <li> <a href="/board/new">Add</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
                 <li class=""><a href="#">Hi {{Auth::user()->email}}</a></li>

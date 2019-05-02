@@ -46,10 +46,13 @@ class BoardController extends Controller
       ]);
     }
     public function delete($commentId = null){
-      var_dump($commentId);
+      // var_dump($commentId);
       if($commentId){
         $comment = Comment::find($commentId);
-        $comment->delete();
+        if($comment){
+           $comment->delete();
+        }
+
         return redirect('/board');
       }
     }

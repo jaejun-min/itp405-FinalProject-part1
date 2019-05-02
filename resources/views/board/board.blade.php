@@ -47,7 +47,7 @@
 	</tbody>
 </table>
 @if(Auth::check())
-  <a class="btn btn-primary btn-sm pull-right" href="/board/new" role="button">Add</a>
+
 @else
   <p class="text-center"> *Please login to add story</p>
 @endif
