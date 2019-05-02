@@ -23,7 +23,7 @@ class SignUpController extends Controller
     'password' => 'required|confirmed|min:6'
     ]);
     if($validation->fails()){
-      return redirect('/')
+      return redirect('/signup')
         ->withInput()
         ->withErrors($validation);
     }
