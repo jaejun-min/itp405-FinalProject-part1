@@ -1,3 +1,9 @@
 # itp405-FinalProject-part1
 
-![Test Image 1](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/database.png)
+Developed website for students to share stories.
+
+## How my website works:
+
+**Main Page**
+[]()
+
