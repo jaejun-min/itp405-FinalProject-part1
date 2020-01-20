@@ -15,39 +15,38 @@ url: https://dashboard.heroku.com/apps/itp405-jaejun-final-laravel
 
 **Main Page**
 
-<img src="https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/login.png"  width="400" height="300" />
-![Main Page](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/login.png)
+<img src="https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/login.png"  width="500" height="300" />
 
 - Require user to login in order to add conetent in forum page.
 
 **Sign up** 
 
-![signup](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/signup.png)
+
+<img src="https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/signup.png"  width="500" height="300" />
 
 - Sign up require password validatioon.
 
 **Profile** 
 
-![create profile](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/create_profile.png)
+<img src="https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/create_profile.png"  width="500" height="300" />
 
-![profile](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/profile.png)
+<img src="https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/profile.png"  width="500" height="300" />
+
 
 - let users create their profile such as graduation year, college, majar, and etc.
 
 **Forum** 
 
-![add_content](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/add_content.png)
+<img src="https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/add_content.png"  width="500" height="300" />
 
-![forum](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/forum_page.png)
-
+<img src="https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/forum_page.png"  width="500" height="300" />
 
 - Only logged in user can add content to forum page and only logged in users can delete and edit  their contents.
 - non logged in user can only read contents .
 
 **Content detail**
 
-![forum_detail](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/content_detail.png)
-
+<img src="https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/content_detail.png"  width="500" height="300" />
 
 
 **Database Diagram**
