@@ -15,8 +15,8 @@ url: https://dashboard.heroku.com/apps/itp405-jaejun-final-laravel
 
 **Main Page**
 
-
-![Main Page](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/login.png ){:height="250" width="400"}
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+![Main Page](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/login.png)
 
 - Require user to login in order to add conetent in forum page.
 
