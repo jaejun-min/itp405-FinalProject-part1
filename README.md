@@ -16,7 +16,7 @@ url: https://dashboard.heroku.com/apps/itp405-jaejun-final-laravel
 **Main Page**
 
 
-![Main Page](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/login.png)
+![Main Page](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/login.png =300*300)
 
 - Require user to login in order to add conetent in forum page.
 
@@ -44,7 +44,10 @@ url: https://dashboard.heroku.com/apps/itp405-jaejun-final-laravel
 - Only logged in user can add content to forum page and only logged in users can delete and edit  their contents.
 - non logged in user can only read contents .
 
+**Content detail**
+
 ![forum_detail](https://github.com/jaejun-min/itp405-FinalProject-part1/blob/master/readme_img/content_detail.png)
+
 
 
 **Database Diagram**
